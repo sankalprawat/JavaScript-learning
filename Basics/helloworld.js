@@ -1,0 +1,1 @@
+console.log("Sankap is running JS");
